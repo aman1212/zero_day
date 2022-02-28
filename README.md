@@ -6,6 +6,7 @@
 * Hyper-V
 * Docker containers
 * VMware
+* AWS
 
 [1]: https://en.wikipedia.org/wiki/Vagrant_(software) "Title"
 
